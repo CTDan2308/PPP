@@ -1,0 +1,6 @@
+
+{
+  "name": "Smart POS - Ghi Nhận Bán Hàng",
+  "description": "Ứng dụng bán hàng thông minh cho phép chọn món từ menu, tính tiền nhanh và quản lý lịch sử bán hàng với sự hỗ trợ từ AI.",
+  "requestFramePermissions": []
+}
